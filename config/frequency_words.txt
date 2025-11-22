@@ -1,19 +1,34 @@
 DeepSeek
 OpenAI
++技术
+!培训
+!广告
 
 gemini
 deepmind
++技术
+!培训
+!广告
 
 chatgpt
 openai
 sora
++技术
+!培训
+!广告
 
 claude
 Anthropic
++技术
+!培训
+!广告
 
 ai
 !gai
 人工智能
++技术
+!培训
+!广告
 
 国产
 中国
@@ -21,3 +36,5 @@ ai
 
 科技
 金融
+!培训
+!广告
